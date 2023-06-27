@@ -27,6 +27,7 @@
 *.so
 *.so.*
 *.dylib
+*.bin
 
 # Executables
 *.exe
@@ -50,3 +51,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Visual Studio Code
+.vscode/
